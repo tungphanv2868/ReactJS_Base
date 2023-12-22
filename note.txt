@@ -1,0 +1,13 @@
+git init : khởi tạo repository
+git remote add origin https://github.com/tungphanv2868/react_base.git => Liên kết repository local và repository remote
+
+- setup account
+git config user.name "tungphanv2868"
+git config user.email "tungphanv2868@gmail.com"
+
+- Đẩy code từ local lên remote
+    + git add -A : chọn
+    + git commit -m "react base" : xác nhận ghi kèm chú thích
+    + git push -u origin master : đẩy code lên git lần đầu tiên
+    + git push : đẩy lần 2 trở đi 
+

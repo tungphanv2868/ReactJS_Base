@@ -1,0 +1,5 @@
+tạo 2 thư viện : redux, react-redux
+
+reducer: nơi viết logic update date của redux
+
+mapStateToProps: lấy data từ redux đưa về components dưới dạng props
